@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil🐱‍👤
 Meu nome é Ian 
-## !![https://giphy.com/gifs/kamen-rider-black-rx-kick-f5LpjAHm5cLdK](link)
+## ![https://giphy.com/gifs/kamen-rider-black-rx-kick-f5LpjAHm5cLdK]
 Estou estudando no Alura.
 Estou me desenvolvendo na linguagem JavaScript.
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.

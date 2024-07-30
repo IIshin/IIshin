@@ -1,6 +1,6 @@
-## Bem vindo ao meu perfil🐱‍👤
+## Bem vindo ao meu perfil
 Meu nome é Ian 
-+ ![](https://media1.tenor.com/m/0xYWFmb2AJIAAAAC/shin-kamen-rider-kick.gif)
++ ![](https://media.tenor.com/VPUKAwJOMuUAAAAi/winton.gif)
 + Estou estudando no Alura.
 + Estou me desenvolvendo na linguagem JavaScript.
 + Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.

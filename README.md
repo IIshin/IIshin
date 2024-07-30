@@ -1,5 +1,7 @@
 ## Bem vindo ao meu perfil
 Meu nome é Ian
+
+![](https://media.tenor.com/GaeTuDac6_cAAAAi/azumanga-daioh-chiyo-chan.gif)
 + Estou estudando no Alura.
 + Estou me desenvolvendo na linguagem JavaScript.
 + Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.

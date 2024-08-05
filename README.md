@@ -1,5 +1,5 @@
 ## Bem vindo ao meu perfil
-Meu nome é Ian
+Meu nome é Ian De Souza
 
 ![](https://media.tenor.com/GaeTuDac6_cAAAAi/azumanga-daioh-chiyo-chan.gif)
 + Estou estudando no Alura.
